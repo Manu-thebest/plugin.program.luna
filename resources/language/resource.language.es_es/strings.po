@@ -1,0 +1,128 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: es_ES\n"
+
+msgctxt "#30000"
+msgid "General"
+msgstr "General"
+
+msgctxt "#30001"
+msgid "Luna URL (regional domain)"
+msgstr "URL de Luna (dominio regional)"
+
+msgctxt "#30002"
+msgid "Extra pages to scan (separated by ;)"
+msgstr "Páginas extra a escanear (separadas por ;)"
+
+msgctxt "#30003"
+msgid "Library cache (hours, 0 = always refresh)"
+msgstr "Caché de la biblioteca (horas, 0 = refrescar siempre)"
+
+msgctxt "#30004"
+msgid "Minimise Kodi while playing"
+msgstr "Minimizar Kodi mientras se juega"
+
+msgctxt "#30005"
+msgid "Game window mode"
+msgstr "Modo de ventana del juego"
+
+msgctxt "#30010"
+msgid "Browser"
+msgstr "Navegador"
+
+msgctxt "#30011"
+msgid "Browser command (empty = auto-detect)"
+msgstr "Comando del navegador (vacío = autodetectar)"
+
+msgctxt "#30012"
+msgid "Browser profile folder (empty = automatic)"
+msgstr "Carpeta del perfil del navegador (vacío = automática)"
+
+msgctxt "#30013"
+msgid "Extra browser flags"
+msgstr "Flags extra del navegador"
+
+msgctxt "#30014"
+msgid "Seconds to wait for the page to load (library scan)"
+msgstr "Segundos de espera a que cargue la página (escaneo)"
+
+msgctxt "#30015"
+msgid "User agent for the scan"
+msgstr "User agent para el escaneo"
+
+msgctxt "#30020"
+msgid "App window, fullscreen"
+msgstr "Ventana de aplicación, pantalla completa"
+
+msgctxt "#30021"
+msgid "Kiosk"
+msgstr "Kiosco"
+
+msgctxt "#30022"
+msgid "Normal window"
+msgstr "Ventana normal"
+
+msgctxt "#30100"
+msgid "Refresh library"
+msgstr "Actualizar biblioteca"
+
+msgctxt "#30101"
+msgid "Sign in to Luna (opens the browser)"
+msgstr "Iniciar sesión en Luna (abre el navegador)"
+
+msgctxt "#30102"
+msgid "Add game manually"
+msgstr "Añadir juego manualmente"
+
+msgctxt "#30103"
+msgid "Open Luna (full interface)"
+msgstr "Abrir Luna (interfaz completa)"
+
+msgctxt "#30104"
+msgid "Save diagnostic HTML"
+msgstr "Guardar HTML de diagnóstico"
+
+msgctxt "#30105"
+msgid "Settings"
+msgstr "Ajustes"
+
+msgctxt "#30110"
+msgid "Scanning Luna library..."
+msgstr "Escaneando la biblioteca de Luna..."
+
+msgctxt "#30111"
+msgid "No games found. Sign in to Luna first (menu: Sign in) and refresh."
+msgstr "No se encontraron juegos. Inicia sesión en Luna primero (menú: Iniciar sesión) y actualiza."
+
+msgctxt "#30112"
+msgid "No compatible browser found (Chrome, Chromium, Edge, Brave). Set it in the settings."
+msgstr "No se encontró ningún navegador compatible (Chrome, Chromium, Edge, Brave). Configúralo en los ajustes."
+
+msgctxt "#30113"
+msgid "Game title"
+msgstr "Título del juego"
+
+msgctxt "#30114"
+msgid "Game URL (https://luna.amazon.com/game/...)"
+msgstr "URL del juego (https://luna.amazon.com/game/...)"
+
+msgctxt "#30115"
+msgid "Remove manual game"
+msgstr "Quitar juego manual"
+
+msgctxt "#30116"
+msgid "Diagnostic saved to"
+msgstr "Diagnóstico guardado en"
+
+msgctxt "#30117"
+msgid "Library updated"
+msgstr "Biblioteca actualizada"
+
+msgctxt "#30118"
+msgid "games"
+msgstr "juegos"
+
+msgctxt "#30119"
+msgid "Launching"
+msgstr "Lanzando"

@@ -1,0 +1,4 @@
+[B]0.1.0[/B]
+- Primera version. Lista el catalogo de Amazon Luna (leido con Chrome headless sobre el perfil de navegador dedicado) y lanza el juego elegido en el navegador a pantalla completa, minimizando y restaurando Kodi.
+- provides: video game — aparece en Juegos y en Add-ons de video.
+- Acceso directo en Kodi (favorito) con el icono del add-on, igual que el lanzador de RetroDECK.

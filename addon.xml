@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.luna" name="Amazon Luna" version="0.1.0" provider-name="local">
+  <requires>
+    <import addon="xbmc.python" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="main.py">
+    <provides>video game</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>linux</platform>
+    <summary lang="en_GB">Browse and launch your Amazon Luna games from Kodi</summary>
+    <summary lang="es_ES">Lista y lanza tus juegos de Amazon Luna desde Kodi</summary>
+    <description lang="en_GB">Lists the Amazon Luna game catalogue (read through a dedicated browser profile) and launches the selected game in a fullscreen browser window. Kodi is minimised while you play and restored afterwards.</description>
+    <description lang="es_ES">Lista el catálogo de Amazon Luna (leído mediante un perfil de navegador dedicado) y lanza el juego elegido en un navegador a pantalla completa. Kodi se minimiza mientras juegas y se restaura al salir.</description>
+    <license>GPL-2.0-or-later</license>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+    </assets>
+  </extension>
+</addon>
