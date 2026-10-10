@@ -1,3 +1,6 @@
+[B]0.1.1[/B]
+- Icono real de Amazon Luna (antes llevaba una luna generica que no era el logo).
+
 [B]0.1.0[/B]
 - Primera version. Lista el catalogo de Amazon Luna (leido con Chrome headless sobre el perfil de navegador dedicado) y lanza el juego elegido en el navegador a pantalla completa, minimizando y restaurando Kodi.
 - provides: video game — aparece en Juegos y en Add-ons de video.
