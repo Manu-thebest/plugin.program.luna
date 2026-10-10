@@ -1,3 +1,6 @@
+[B]0.1.2[/B]
+- Icono definitivo: el oficial de Amazon Luna (glifo blanco sobre violeta).
+
 [B]0.1.1[/B]
 - Icono real de Amazon Luna (antes llevaba una luna generica que no era el logo).
 
